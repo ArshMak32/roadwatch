@@ -1,0 +1,35 @@
+{
+  "detections": [
+    {
+      "id": "d001",
+      "class_id": 1,
+      "code": "D10",
+      "label": "Transverse crack",
+      "score": 0.6453977823257446,
+      "box_xyxy": [
+        42.08,
+        342.86,
+        375.05,
+        455.79
+      ],
+      "image_area_fraction": 0.1434466689825058,
+      "review_status": "candidate"
+    }
+  ],
+  "width": 512,
+  "height": 512,
+  "confidence_threshold": 0.25,
+  "nms_iou": 0.45,
+  "latency_ms": 177.2,
+  "model_sha256": "9a4b2433c63d36eec5b2726ee0d836ace88509d0c35c3dbbe7a1e1d3636289fc",
+  "note": "Candidate image detections only; not physical severity, repair priority or road-safety certification.",
+  "source": {
+    "dataset": "dronefreak/RDD2022",
+    "revision": "72b01f94c2e5bfe430861afd73995f2d412b8855",
+    "file": "data/images/test/shard_000/China_Drone_000008.jpg",
+    "url": "https://huggingface.co/datasets/dronefreak/RDD2022/resolve/72b01f94c2e5bfe430861afd73995f2d412b8855/data/images/test/shard_000/China_Drone_000008.jpg",
+    "note": "Single public sample for inference smoke test; not independent benchmark validation"
+  },
+  "image_sha256": "a9754681705e659d7ba568ce813d40029bf4bb8cdd24bca88df510cb94bd3b46",
+  "scope": "Single real-photo inference smoke test; not an accuracy evaluation"
+}

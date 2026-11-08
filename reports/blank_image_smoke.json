@@ -1,0 +1,10 @@
+{
+  "detections": [],
+  "width": 640,
+  "height": 480,
+  "confidence_threshold": 0.3,
+  "nms_iou": 0.45,
+  "latency_ms": 173.36,
+  "model_sha256": "9a4b2433c63d36eec5b2726ee0d836ace88509d0c35c3dbbe7a1e1d3636289fc",
+  "note": "Candidate image detections only; not physical severity, repair priority or road-safety certification."
+}

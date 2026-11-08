@@ -1,0 +1,10 @@
+{
+  "dataset": "dronefreak/RDD2022",
+  "revision": "72b01f94c2e5bfe430861afd73995f2d412b8855",
+  "file": "data/images/test/shard_000/China_Drone_000008.jpg",
+  "url": "https://huggingface.co/datasets/dronefreak/RDD2022/resolve/72b01f94c2e5bfe430861afd73995f2d412b8855/data/images/test/shard_000/China_Drone_000008.jpg",
+  "note": "Single public sample for inference smoke test; not independent benchmark validation",
+  "license": "CC BY-SA 4.0, per dataset card",
+  "attribution": "RDD2022 creators / sekilab; Hugging Face dataset mirror by dronefreak",
+  "changes": "Original sample image copied without modification; app annotations are generated separately."
+}

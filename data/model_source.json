@@ -1,0 +1,15 @@
+{
+  "repo": "zainab-nayeem/roadscan-ai-model",
+  "revision": "32bcf3ec2ebc5c38541667e6eaf475a8c8726cfe",
+  "file": "yolov8_road.onnx",
+  "sha256": "9a4b2433c63d36eec5b2726ee0d836ace88509d0c35c3dbbe7a1e1d3636289fc",
+  "classes": {
+    "0": "D00",
+    "1": "D10",
+    "2": "D20",
+    "3": "D40"
+  },
+  "input_size": 640,
+  "provenance_note": "Embedded metadata describes Ultralytics best model trained on /kaggle/working/rdd.yaml. Author did not provide a full training/validation protocol. No reproduced accuracy claim.",
+  "license_note": "Model card declares MIT; embedded model metadata declares AGPL-3.0. Resolve upstream licensing before commercial redistribution. Weights downloaded separately."
+}
